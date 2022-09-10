@@ -1,4 +1,21 @@
-### Hi there 👋
+# Anshul Shah
+
+    C:\users\anshll> I'm a student.
+
+## 🎈Interests
+#### Computer Science:
+
+ - Web Development
+ - Machine Learning
+ - Quantum Computing
+
+#### Other Stuff:
+- Linguistics
+- Math
+- Physics
+
+## 🕸 Website
+Check out my portfolio here: anshul75.repl.co
 
 <!--
 **anshll/anshll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
