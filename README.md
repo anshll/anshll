@@ -4,19 +4,6 @@
 
 ##### NOTE: most of my projects are on replit, not github; please look at my portfolio website
 
-## 🎈Interests
-#### Computer Science:
-
- - Web Development
- - Machine Learning
- - Quantum Computing
-
-#### Other Stuff:
-- Linguistics
-- Math
-- Physics
-
-## 🕸 Website
 Check out my portfolio here: anshul75.repl.co
 
 <!--
