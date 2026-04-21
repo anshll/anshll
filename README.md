@@ -1,11 +1,6 @@
 # Anshul Shah
 
     C:\users\anshll> I'm a computer science student at the University of Washington.
-
-##### NOTE: most of my projects are on replit, not github; please look at my portfolio website
-
-Check out my portfolio here: anshul75.repl.co
-
 <!--
 **anshll/anshll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
